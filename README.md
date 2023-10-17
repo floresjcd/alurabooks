@@ -12,6 +12,7 @@
 <hr>
 
 ## Outras Informações
-Projeto desenvolvido na disciplina de Matemática II (Programação) do segundo ano do Ensino Médio do Colégio Estadual La Salle - Curitiba
+* Projeto desenvolvido na disciplina de Matemática II (Programação) do segundo ano do Ensino Médio do Colégio Estadual La Salle - Curitiba
+* Professor: José Carlos Flores Ano: 2023
 
-Professor: José Carlos Flores Ano: 2023
+
